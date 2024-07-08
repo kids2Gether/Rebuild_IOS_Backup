@@ -1,0 +1,6 @@
+** BUILD FAILED **
+
+
+The following build commands failed:
+	CompileC /Users/guilhermecameron/Library/Developer/Xcode/DerivedData/kids2gether-eljcehiqecvollboqyclkrqkelly/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/tipsi-stripe.build/Objects-normal/x86_64/TPSCardField.o /Users/guilhermecameron/Desktop/Kids-IOS/kids2Gether-rebuild-ios/node_modules/tipsi-stripe/ios/TPSStripe/TPSCardField.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler (in target 'tipsi-stripe' from project 'Pods')
+(1 failure)
